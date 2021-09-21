@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NetbackUpdate>
+  <update appID="SuperBacktest">
+    <version>v21.09.21.39356</version>
+    <url>https://github.com/sibuzu/SuperBacktestUpdate/raw/main/SuperBacktest/SuperBacktest_v21.09.21.39356.zip</url>
+    <fileName>SuperBacktest.exe</fileName>
+    <description>v21.09.21.39356:
+* SuperBacktest init
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\SuperBacktest\SuperBacktest\bin\Debug\">
+      <file>SuperBacktest.exe</file>
+    </files>
+    <md5>06ec683c2722fad51bca87b92f9a7b65</md5>
+  </update>
+</NetbackUpdate>
